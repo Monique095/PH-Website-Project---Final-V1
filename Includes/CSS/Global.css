@@ -1,0 +1,44 @@
+﻿body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.button {
+    border: unset;
+    border-radius: 5px;
+    background-color: #482740;
+    color: #eeeeee;
+    text-transform: uppercase;
+    width: 250px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+    text-decoration: unset;
+    font-weight: bold;
+}
+
+.button:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.rte {
+    color: unset !important;
+    text-decoration: unset !important;
+}
+
+.footer-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    background: #E5E4E2;
+    padding: 20px;
+}
+
+.footer-bar__button {
+    width: 350px;
+}
