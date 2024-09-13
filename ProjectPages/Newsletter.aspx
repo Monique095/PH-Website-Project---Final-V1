@@ -6,7 +6,6 @@
     <link rel="stylesheet" href="../Includes/CSS/Global.css" type="text/css" />
     <link rel="stylesheet" href="../Includes/CSS/Newsletter.css" type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" /> 
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous" />
     <title>Newsletter</title>
 </head>
 <body class="newsletter-container">
@@ -53,7 +52,7 @@
                             and AI algorithms can predict system failures or optimize resource allocation.
                         </p>
               
-                        <a href="www.google.com" class="button">Read More</a>
+                        <a href="#" class="button">Read More</a>
                     </div>
 
                     <div class="read-more__card">
@@ -62,7 +61,7 @@
                             AI analyzes large volumes of data to provide actionable insights, predict system needs, and optimize performance. 
                             This capability helps in proactive management rather than reactive fixes.
                         </p>
-                        <a href="www.google.com" class="button">Read More</a>
+                        <a href="#" class="button">Read More</a>
                     </div>
 
                     <div class="read-more__card">
@@ -71,7 +70,7 @@
                             IT professionals should be familiar with AI-driven security tools and techniques. 
                             Continuous learning about the latest threats and AI capabilities is vital for maintaining robust security.
                         </p>
-                        <a href="www.google.com" class="button">Read More</a>
+                        <a href="#" class="button">Read More</a>
                     </div>
                 </div>
 

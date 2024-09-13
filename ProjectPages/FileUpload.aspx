@@ -3,10 +3,10 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
-    <title>File Uploader & Compress</title>
     <link rel="stylesheet" href="../Includes/CSS/Global.css" type="text/css" />
     <link rel="stylesheet" href="../Includes/CSS/FileUpload.css" type="text/css" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <title>File Uploader & Compress</title>
 </head>
 <body class="file-upload__container">
     <form id="form1" runat="server">
