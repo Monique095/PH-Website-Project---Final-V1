@@ -16,7 +16,7 @@
 
             <div class="signature-information">
                 <div class="signature-information__heading">
-                    <h3 class="signature-margin">André Swanepoel</h3>
+                    <h2 class="signature-margin">André Swanepoel</h2>
                     <p class="title">Head of Technology, Administration</p>
                 </div>
 

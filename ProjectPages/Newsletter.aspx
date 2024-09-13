@@ -16,7 +16,7 @@
             </div>
 
             <div class="information__container">
-                <h2>Q2 Company Newsletter</h2>
+                <h1>Q2 Company Newsletter</h1>
 
                 <p>May 12, 2027</p>
 
@@ -27,7 +27,7 @@
                     To remain competitive and grow in the IT sector, developing and honing key skills is vital. Here are some of the most in-demand abilities every IT professional should consider:
                 </div>
 
-                <h3>Essential Skills for IT Professionals in 2024</h3>
+                <h2>Essential Skills for IT Professionals in 2024</h2>
                 <ul>
                     <li><strong>Cloud Computing:</strong> Expertise in cloud services such as AWS, Azure, and Google Cloud.</li>
                     <li><strong>Cybersecurity:</strong> Proficiency in threat detection, data encryption, and security protocols.</li>
@@ -37,12 +37,12 @@
                     <li><strong>Blockchain:</strong> Knowledge of decentralized systems and their application in industries like finance and supply chain.</li>
                 </ul>
 
-                <h3>Spotlight: Navigating the AI Revolution</h3>
+                <h2>Spotlight: Navigating the AI Revolution</h2>
                 <p>Artificial intelligence is more than just a buzzword—it is transforming the landscape of IT. From automating workflows to improving decision-making processes, AI is becoming indispensable for businesses looking to innovate. In this section, we dive deeper into how AI is being leveraged across industries and the opportunities it presents for IT professionals.</p>
       
                     <hr />
 
-                <h4>Want to Read More?</h4>
+                <h2>Want to Read More?</h2>
 
                 <div class="read-more__container">
                     <div class="read-more__card">

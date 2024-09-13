@@ -42,3 +42,15 @@
 .footer-bar__button {
     width: 350px;
 }
+
+h1 {
+    font-size: 24pt;
+}
+
+h2 {
+    font-size: 20pt;
+}
+
+h3 {
+    font-size: 18pt;
+}
